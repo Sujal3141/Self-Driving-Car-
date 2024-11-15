@@ -22,7 +22,7 @@ This project demonstrates a self-driving car simulation built using a custom con
 
 Below is a simple representation of a steering wheel with an indication of the steering angle:  
 
-![Steering Angle Diagram](path/to/your/image.png)  
+![Steering Angle Diagram](https://github.com/Sujal3141/Self-Driving-Car-/blob/main/diag.webp)  
 
 Replace `path/to/your/image.png` with the actual path where you store the image in your repository.  
 
